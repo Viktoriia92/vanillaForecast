@@ -4,7 +4,7 @@ body {
 .weather-app {
   max-width: 600px;
   border: 1px solid grey;
-  margin: 10px auto;
+  margin: 15px auto;
   border-radius: 5px;
   font-family: "Roboto", sans-serif;
   padding: 0px 20px;
